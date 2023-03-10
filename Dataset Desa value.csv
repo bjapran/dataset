@@ -1,0 +1,68 @@
+﻿No,Jabatan,Desa,Kecamatan,A1,A2,A3,A4,A5,B1,B2,B3,B4,B5,C1,C2,C3,C4,C5,D1,D2,D3,D4,D5
+1,Sekretaris Desa,Babadan Lor,Balerejo,3,4,4,2,2,2,3,3,4,3,3,4,4,3,3,5,5,5,5,5
+2,Kepala Desa,Banaran,Balerejo,4,5,4,3,4,4,3,4,2,2,4,4,4,3,2,5,5,5,5,5
+3,Sekretaris Desa,Gading,Balerejo,4,4,4,4,4,1,1,4,2,2,5,5,5,5,5,5,5,5,5,5
+4,Kepala Desa,Garon,Balerejo,5,5,4,4,4,4,5,2,3,4,5,5,5,5,5,5,5,5,5,5
+5,Sekretaris Desa,Glonggong Lor,Balerejo,4,4,4,4,4,5,5,5,5,4,2,4,4,4,2,4,4,2,4,4
+6,Sekretaris Desa,Jerukgulung,Balerejo,4,4,4,3,3,3,4,3,3,3,5,5,5,5,5,5,5,5,3,3
+7,Kepala Desa,Kebonagung,Balerejo,4,4,4,4,4,3,3,3,3,4,4,5,4,5,3,5,5,5,5,4
+8,Sekretaris Desa,Kedungjati,Balerejo,5,5,4,5,5,2,2,3,5,2,5,5,5,5,5,5,5,5,3,3
+9,Sekretaris Desa,Kedungrejo,Balerejo,4,4,3,3,3,2,2,3,4,3,2,4,4,4,2,4,4,2,4,4
+10,Sekretaris Desa,Kuwu,Balerejo,4,5,3,5,4,4,4,4,4,4,4,5,4,4,4,5,5,5,5,5
+11,Kepala Desa,Pacinan,Balerejo,3,5,2,5,3,4,4,4,2,2,2,4,3,4,2,5,5,2,3,2
+12,Sekretaris Desa,Simo,Balerejo,5,5,5,5,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+13,Sekretaris Desa,Sogo,Balerejo,5,5,4,4,4,5,5,2,5,5,4,4,3,4,4,4,4,4,3,4
+14,Kepala Desa,Sumberbening,Balerejo,4,4,4,4,4,5,5,3,5,5,4,4,5,5,5,5,5,5,4,4
+15,Sekretaris Desa,Tapelan,Balerejo,4,4,2,4,4,2,4,2,4,2,4,5,5,4,5,5,5,5,5,4
+16,Kepala Urusan Umum dan Perencanaan,Bedoho,Jiwan,4,4,4,3,3,3,4,3,3,3,3,5,4,5,4,5,5,5,4,4
+17,Kepala Urusan Umum,Bibrik,Jiwan,5,5,5,5,5,5,5,5,5,4,1,4,5,5,5,5,5,5,5,5
+18,Sekretaris Desa,Bukur,Jiwan,5,5,4,5,4,4,4,4,5,4,2,4,4,4,2,5,5,5,4,4
+19,Sekretaris Desa,Grobogan,Jiwan,4,5,4,5,4,1,1,4,2,1,2,5,4,5,4,4,4,3,5,3
+20,Sekretaris Desa,Jiwan,Jiwan,5,5,5,4,4,5,5,5,5,1,3,4,3,3,3,5,5,5,5,5
+21,Sekretaris Desa,Kincang Wetan,Jiwan,4,4,4,4,4,3,4,3,3,1,2,5,4,5,4,5,5,5,4,4
+22,Kepala Desa,Klagen Serut,Jiwan,4,4,4,4,4,3,3,3,3,4,2,5,4,4,4,5,5,5,4,4
+23,Kepala Desa,Kwangsen,Jiwan,5,3,3,2,3,4,4,4,4,1,2,4,5,5,4,5,5,5,4,4
+24,Perangkat desa,Ngetrep,Jiwan,4,5,3,4,3,3,3,3,3,4,4,5,5,5,3,5,5,5,4,4
+25,Sekretaris Desa,Ngetrep,Jiwan,5,5,4,5,4,4,4,4,2,2,4,4,4,4,4,4,3,3,3,4
+26,Sekretaris Desa,Sambirejo,Jiwan,4,4,4,4,4,4,4,4,4,4,1,3,2,2,2,5,5,5,4,4
+27,Sekretaris Desa,Sukolilo,Jiwan,4,4,4,4,4,2,3,3,4,3,4,4,4,4,3,5,5,5,5,4
+28,Kepala Desa,Wayut,Jiwan,5,5,5,4,4,1,1,4,2,2,4,4,4,4,4,4,4,3,5,3
+29,Sekretaris Desa,Bangunsari,Mejayan,4,5,2,5,3,1,4,3,4,1,2,2,2,2,2,4,4,3,5,5
+30,Sekretaris Desa,Blabakan,Mejayan,4,4,4,2,4,4,4,4,4,4,4,4,4,4,4,5,5,4,3,3
+31,Sekretaris Desa,Kaliabu,Mejayan,5,5,5,4,5,4,4,4,5,4,5,4,5,5,4,5,5,5,5,4
+32,Sekretaris Desa,Kaligunting,Mejayan,3,5,2,5,3,4,4,4,2,2,2,4,3,4,2,5,5,5,4,4
+33,Kepala Desa,Kebonagung,Mejayan,5,3,3,2,3,4,4,4,4,1,2,4,5,5,4,5,5,5,4,4
+34,Sekretaris Desa,Klecorejo,Mejayan,5,5,4,5,4,4,4,4,2,2,4,4,4,4,4,5,5,4,4,3
+35,Kaur,Krajan,Mejayan,4,4,4,4,4,3,4,2,4,4,4,4,5,5,5,5,5,4,4,5
+36,Sekretaris Desa,Kuncen,Mejayan,4,4,4,4,4,4,4,4,4,4,1,3,2,2,2,4,3,3,3,4
+37,Kepala Desa,Mejayan,Mejayan,4,4,4,4,4,2,3,3,4,3,4,4,4,4,3,5,5,5,4,4
+38,Sekretaris Desa,Ngampel,Mejayan,5,5,5,5,5,4,4,2,5,4,5,5,5,5,5,5,5,5,4,4
+39,Staf Kesra,Pandean,Mejayan,5,3,3,2,3,4,3,2,4,3,5,4,3,3,4,5,5,4,4,3
+40,Sekretaris Desa,Sidodadi,Mejayan,5,5,5,4,5,4,3,4,2,2,2,2,2,2,2,4,3,3,3,4
+41,Sekretaris Desa,Wonorejo,Mejayan,5,5,5,4,4,1,1,4,2,2,4,4,4,4,4,5,5,5,4,4
+42,Perangkat desa,Klumutan,Saradan,4,4,4,4,4,2,2,4,4,2,2,4,4,4,2,5,5,2,5,5
+43,Perangkat desa,Ngepeh,Saradan,4,4,4,4,4,2,2,4,4,1,2,5,4,4,4,5,5,3,5,5
+44,Perangkat Desa,Sidorejo,Saradan,4,4,4,3,3,3,3,3,3,3,3,4,3,3,3,3,3,3,3,3
+45,Perangkat desa,Sukorejo,Saradan,4,4,4,4,4,2,2,4,4,1,2,4,5,5,4,5,5,3,5,5
+46,Sekretaris Desa,Sumbersari,Saradan,5,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+47,Perangkat desa,Bongsopotro,Saradan ,4,4,4,4,4,1,2,4,3,1,2,5,4,5,4,5,5,3,5,5
+48,Perangkat Desa,Sugihwaras,Saradan ,4,4,4,4,4,2,2,4,4,1,2,5,4,5,4,5,5,4,5,5
+49,Sekretaris Desa,Bakur,Sawahan,4,4,4,2,4,4,4,4,4,4,4,4,4,4,4,5,5,4,3,3
+50,Sekretaris Desa,Cabean,Sawahan,4,4,4,5,4,3,3,3,3,2,4,5,4,5,3,5,5,5,5,4
+51,Kepala Desa,Golan,Sawahan,5,4,4,5,5,4,4,4,4,4,4,5,4,4,4,5,5,5,5,5
+52,Kepala Urusan Umum dan Perencanaan,Klumpit,Sawahan,4,4,4,4,4,4,2,4,3,3,4,4,3,4,4,4,4,4,3,4
+53,Sekretaris Desa,Krokeh,Sawahan,5,5,4,4,4,5,4,1,5,4,4,5,5,4,5,5,5,5,5,4
+54,Sekretaris Desa,Pule,Sawahan,4,5,3,5,4,1,1,4,2,2,3,3,3,2,2,4,4,3,5,3
+55,Sekretaris Desa,Sawahan,Sawahan,4,4,2,4,4,2,4,2,4,2,4,4,3,4,4,4,4,4,4,3
+56,Kepala Desa,Sidomulyo,Sawahan,4,5,5,4,4,4,4,2,4,4,5,5,5,5,4,5,5,5,4,4
+57,Kepala Desa ,Kanung,Sawahan ,2,4,2,2,3,2,4,4,3,2,2,4,3,4,2,5,5,2,3,2
+58,Sekretaris Desa,Pucangrejo,Sawahan ,4,5,5,4,5,3,4,5,4,4,4,5,5,5,4,5,5,5,4,4
+59,Kasi Rencana ,Rejosari,Sawahan ,5,5,4,4,4,4,4,4,4,4,4,5,5,5,4,5,5,5,4,4
+60,Sekretaris Desa,Bancong,Wonoasri,4,4,4,4,4,1,4,4,4,3,4,4,4,4,3,5,5,5,5,5
+61,Sekretaris Desa,Banyukambang,Wonoasri,5,5,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+62,Sekretaris Desa,Buduran,Wonoasri,4,4,4,4,4,3,4,4,4,4,4,4,5,5,5,5,5,5,4,4
+63,Sekretaris Desa,Klitik,Wonoasri,4,4,4,2,2,4,4,4,2,2,1,1,2,4,3,4,3,3,3,4
+64,Sekretaris desa,Ngadirejo,Wonoasri,4,5,4,5,4,4,4,4,4,4,4,4,4,4,4,5,5,5,5,5
+65,Sekretaris Desa,Plumpungrejo,Wonoasri,4,5,4,5,4,5,5,2,5,5,5,5,5,5,5,5,5,5,5,5
+66,Sekretaris Desa,Purwosari,Wonoasri,4,5,4,4,5,5,5,3,5,5,5,5,5,5,5,5,5,5,5,5
+67,Perangkat Desa,Sidomulyo,Wonoasri,5,5,5,4,4,5,5,5,5,4,4,4,4,4,4,5,5,4,4,5
